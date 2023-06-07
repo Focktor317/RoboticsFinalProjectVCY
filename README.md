@@ -1,5 +1,5 @@
 # RoboticsFinalProjectVCY <br>
-<br>
+<br/>
 Required components:<br>
   4x AA Battery<br>
   2x Arduino UNO<br>
