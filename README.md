@@ -26,3 +26,5 @@ The transmitter Arduino NANO can be supplemented with an Arduino UNO (such as in
 
 
 Project from https://www.youtube.com/watch?v=xnX86bsGta0 <br>
+
+Video Link https://youtu.be/DICc7ALiOYM <br>
