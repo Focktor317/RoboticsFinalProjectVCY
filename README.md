@@ -3,7 +3,7 @@
 
 Required components:<br>
 - 4x AA Battery<br>
-- 2x Arduino UNO<br>
+- 2x Arduino UNO or 1x Arduino UNO & 1x Arduino NANO<br> 
 - 2x NRF24L01 Tranceiver Module<br>
 - 2x 9V Battery<br>
 - 2x 9V Battery Clip<br>
